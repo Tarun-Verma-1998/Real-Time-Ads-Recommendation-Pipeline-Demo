@@ -45,12 +45,12 @@ Top recommended ads: ['ad_12', 'ad_7', 'ad_23', 'ad_5', 'ad_19']
 
 
 
-📦 ad-recommendation-pipeline-demo
+ad-recommendation-pipeline-demo
 ├── README.md              # Project summary
 ├── pipeline_demo.ipynb    # Main notebook with full pipeline logic
 └── requirements.txt       # Dependencies
 
 
-⚠️ Note
+Note
 This is a simplified demo using randomly generated embeddings and features. It is designed to showcase the architecture and logic of a ranking system, not actual production metrics.
 While Milvus is not directly used, the pipeline simulates its behavior using cosine similarity on embedding vectors.
